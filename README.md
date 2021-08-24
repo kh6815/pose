@@ -4,8 +4,11 @@
 python 딥러닝 구현 코드 깃헙 주소는 해당 주소를 참고해주세요.
  - https://github.com/kh6815/pose_DeepLearning
 
-전체적인 동작 구현 영상은 유튜브에 링크해두었습니다.
+전체적인 동작 구현 영상은 유튜브를 참고해주세요.
  - https://www.youtube.com/watch?v=wnqB6Vz1_Cg
+
+해당 프로젝트에 관한 논문은 dropbox링크를 참고해주세요
+ - https://www.dropbox.com/scl/fi/6z8xqxoywebwzgqv4h0qs/.doc?dl=0&rlkey=kiysayk0spo6w9kqfgu7tmcle
 
 ## 작품 요약
 최근 인스타그램의 사용자들이 많아지면서 각 개인의 게시물의 수 또한 증가하고 있다. 하지만 인스타그램 내에서는 자신이 올린 사진을 분류해서 볼 수 있는 기능이 없다. 
