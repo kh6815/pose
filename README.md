@@ -26,3 +26,9 @@ DRN 모델은 정확도가 73%로 교육시킨 사진의 양에 비해 높은 �
  - 프레임워크 : Spring Framework 
  - IDE : IntelliJ, Visal Studio Code, Pycharm 
  - 딥러닝 모델 : DRN 모델
+
+## 시스템 설계 및 구현
+ ### 해시태그 추천 및 사용자 사진 분류
+     - 사용자의 인스타그램 게시글을 작성할 때 사진의 태그를 추천.
+     - 사용자의 인스타그램 게시글 데이터를 크롤링하여 날짜와 해시태그별로 분류하여 보여줌.
+       ![해시태그 추천 구성도](https://user-images.githubusercontent.com/62634760/130561192-a12f0d0e-3ebd-45d7-9aad-7180940806dc.PNG)
