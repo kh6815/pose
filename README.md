@@ -23,7 +23,7 @@ DRN 모델은 정확도가 73%로 교육시킨 사진의 양에 비해 높은 �
 
 ## 기술 스택
  - 구현 언어 : Java, python, HTML/CSS/JS
- - 프레임워크 : Spring Framework 
+ - 프레임워크 : Spring Framework / SpringBoot
  - IDE : IntelliJ, Visal Studio Code, Pycharm 
  - 딥러닝 모델 : DRN 모델
 
