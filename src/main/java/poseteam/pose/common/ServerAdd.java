@@ -1,4 +1,4 @@
-package poseteam.pose.controller;
+package poseteam.pose.common;
 
 //해당 서버의 ip,포트 지정
 public class ServerAdd {

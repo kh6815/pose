@@ -1,4 +1,4 @@
-package poseteam.pose.controller;
+package poseteam.pose.common;
 
 
 import java.io.IOException;

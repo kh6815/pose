@@ -1,4 +1,4 @@
-package poseteam.pose.controller;
+package poseteam.pose.common;
 
 import poseteam.pose.domain.Img;
 
